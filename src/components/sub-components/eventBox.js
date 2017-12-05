@@ -21,7 +21,7 @@ const EventBox = (props) => {
 				{/*<Link to="#">{session.title}</Link></span> <br /> {`${startTime} to ${endTime}`}*/}
 			</Col>
 			<Col xs={6} sm={6} md={6}>
-			"some information ..."
+			"some information ......"
 			</Col>
 		</Row>
 )
