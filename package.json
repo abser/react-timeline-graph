@@ -1,0 +1,39 @@
+{
+  "name": "react-timeline-graph",
+  "version": "0.1.1",
+  "description": "React library to build horizontal and vertical timeline graph",
+  "keywords": [
+    "React",
+    "Timeline",
+    "Graph"
+  ],
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^16.1.1"
+  },
+  "dependencies": {
+    "moment": "^2.19.3",
+    "react": "^16.1.1",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.2.0",
+    "webpack": "^2.6.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Nurul Abser",
+    "email": "abser.it@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
