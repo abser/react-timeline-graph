@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
+import './css/style.css';
 import EventBox from './sub-components/eventBox';
 
 /**
